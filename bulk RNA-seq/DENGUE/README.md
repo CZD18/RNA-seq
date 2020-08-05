@@ -1,1 +1,1 @@
-This is an exercise analyzing the public available dataset: GSE87505 (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE87505)
+This is an exercise analyzing the public available dataset: GSE87505 "Transcriptomic profile of circulating memory T cells in donors previously exposed to dengue virus" (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE87505)
