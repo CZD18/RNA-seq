@@ -1,5 +1,6 @@
-library(dplyr)
+library("dplyr")
 library("DESeq2")
+library("ggplot2")
 
 # Open files 
 GSE87505 <- read.delim("GSE87505_All_Count.tsv")
@@ -39,3 +40,12 @@ write.table(data, sep="\t",file="Normalized.txt", row.names=TRUE,col.names=NA,qu
                         
 #Generating a PCA plot from the normalized data
 plotPCA(Vn, intgroup=c("condition")) 
+
+ #Generating the VST transformation plot
+df <- as_data_frame(assay(Vn)[, 1:2]) %>% mutate(transformation = "vst")
+colnames(df)[1:2] <- c("x", "y")
+lvls <- c("vst")
+df$transformation <- factor(df$transformation, levels=lvls)
+ggplot(df, aes(x = x, y = y)) + geom_hex(bins = 80) + coord_fixed() + facet_grid( . ~ transformation) 
+                        
+#The plot result is under the name "VST.pdf"
