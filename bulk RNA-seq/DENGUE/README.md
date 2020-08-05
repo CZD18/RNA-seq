@@ -1,1 +1,1 @@
-This is an exercise analyzing the public available dataset: GSE38246 from the article "Temporal dynamics of the transcriptional response to dengue virus infection in Nicaraguan children" (PMCID: PMC3527342 DOI: 10.1371/journal.pntd.0001966)
+This is an exercise analyzing the public available dataset: GSE87505 (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE87505)
