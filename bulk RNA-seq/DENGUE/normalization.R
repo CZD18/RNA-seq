@@ -2,28 +2,40 @@ library(dplyr)
 library("DESeq2")
 
 # Open files 
-GPL15615 <- read.delim("GPL15615.txt")
-GSE38246 <- read.delim("GSE38246.txt")
+GSE87505 <- read.delim("GSE87505_All_Count.tsv")
 metadata <- read.delim("metadata.txt")
 
-# Merge by ID to obtain the Gene names in the expression data file, and clean it with the grep function. Convert the ORF columm into the Raw names
+# Merge by ID to obtain the Gene names in the expression data file, and clean it with the grep function. Convert the X columm into the Raw names (Special consideration
+# to avoid same rownames
 
-file1 <- merge(GPL15615,GSE38246,by="ID")
-file1<-file1[,-grep("ID|ORGANISM|SEQUENCE|Reporter.Group|Control.Type|Composite.Element.Comment|Composite.Element.Comment.1|SPOT_ID",colnames(file1))]
-rownames(file1) = make.names(file1$ORF, unique=TRUE)
-file1<-file1[,-grep("ORF",colnames(file1))]
+file1 <- GSE87505[apply(GSE87505[,-1], 1, function(x) !all(x==0)),]
+
+ dim(GSE87505)
+#[1] 21742   109
+> dim(file1)
+#[1] 21733   109
+
+rownames(file1) = make.names(file1$X, unique=TRUE)
+file1<-file1[,-grep("X",colnames(file1))]
 
 dim(file1)
-[1] 45696   122
+#[1] 21733   108
 
 #Convert null to 0
 file1[file1=='NULL'] <- 0
 
 #Clean the metadata file
-metadata<-metadata[,-grep("X.Sample_title|X.Sample_geo_accesion|X.Sample_characteristics_ch2|X.Sample_geo_accesion",colnames(metadata))]
-rownames(metadata) = metadata$ID_REF
+rownames(metadata) =  make.names(metadata$ID, unique=TRUE)
 
 #Normalization Start, the data would be normalizaed according to the condition, in this case the disease stage
 count1 <- DESeqDataSetFromMatrix(countData=file1, colData=metadata, design= ~ condition) 
+count.object <- DESeq(count1)
+#Then we normalize using VST method
+Vn <- vst(count.object)
+data = assay(Vn)
 
-
+#Save the normalized data as a .TXT file
+write.table(data, sep="\t",file="Normalized.txt", row.names=TRUE,col.names=NA,quote=FALSE)
+                        
+#Generating a PCA plot from the normalized data
+plotPCA(Vn, intgroup=c("condition")) 
