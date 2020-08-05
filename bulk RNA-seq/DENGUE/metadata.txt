@@ -1,109 +1,109 @@
-title	ID	condition	cells
-GN0064_CD4_Nicaragua 2°	GN0064	disease group: Nicaragua 2degree	cell subset: Memory CD3+CD4+ T cells
-GN0066_CD4_Nicaragua 2°	GN0066	disease group: Nicaragua 2degree	cell subset: Memory CD3+CD4+ T cells
-GN0066 CD8_Nicaragua 2	GN0066	disease group: Nicaragua 2degree	cell subset: Memory CD3+CD8+ T cells
-GN0068_CD4_Nicaragua 2°	GN0068	disease group: Nicaragua 2degree	cell subset: Memory CD3+CD4+ T cells
-GN0068 CD8_Nicaragua 2	GN0068	disease group: Nicaragua 2degree	cell subset: Memory CD3+CD8+ T cells
-GN0072 CD8_Nicaragua 2	GN0072	disease group: Nicaragua 2degree	cell subset: Memory CD3+CD8+ T cells
-GN0072_CD4_Nicaragua 2°	GN0072	disease group: Nicaragua 2degree	cell subset: Memory CD3+CD4+ T cells
-GN0073_CD4_Nicaragua 2°	GN0073	disease group: Nicaragua 2degree	cell subset: Memory CD3+CD4+ T cells
-GN0073CD8_Nicaragua 2	GN0073	disease group: Nicaragua 2degree	cell subset: Memory CD3+CD8+ T cells
-GN0077CD8_Nicaragua 2	GN0077	disease group: Nicaragua 2degree	cell subset: Memory CD3+CD8+ T cells
-GN0102 CD8_Nicaragua 2	GN0102	disease group: Nicaragua 2degree	cell subset: Memory CD3+CD8+ T cells
-GN0102_CD4_Nicaragua 2°	GN0102	disease group: Nicaragua 2degree	cell subset: Memory CD3+CD4+ T cells
-GN0103_CD4_Nicaragua 2°	GN0103	disease group: Nicaragua 2degree	cell subset: Memory CD3+CD4+ T cells
-GN0103CD8_Nicaragua 2	GN0103	disease group: Nicaragua 2degree	cell subset: Memory CD3+CD8+ T cells
-GN0104 CD8_Nicaragua 2	GN0104	disease group: Nicaragua 2degree	cell subset: Memory CD3+CD8+ T cells
-GN0104_CD4_Nicaragua 2°	GN0104	disease group: Nicaragua 2degree	cell subset: Memory CD3+CD4+ T cells
-GN0105_CD4_Nicaragua 2°	GN0105	disease group: Nicaragua 2degree	cell subset: Memory CD3+CD4+ T cells
-GN0105CD8_Nicaragua 2	GN0105	disease group: Nicaragua 2degree	cell subset: Memory CD3+CD8+ T cells
-GN0106_CD4_Nicaragua 2°	GN0106	disease group: Nicaragua 2degree	cell subset: Memory CD3+CD4+ T cells
-GN0106CD8_Nicaragua 2	GN0106	disease group: Nicaragua 2degree	cell subset: Memory CD3+CD8+ T cells
-GN0107_CD4_Nicaragua 2°	GN0107	disease group: Nicaragua 2degree	cell subset: Memory CD3+CD4+ T cells
-GN0107CD8_Nicaragua 2	GN0107	disease group: Nicaragua 2degree	cell subset: Memory CD3+CD8+ T cells
-GN0108_CD4_Nicaragua 2°	GN0108	disease group: Nicaragua 2degree	cell subset: Memory CD3+CD4+ T cells
-GN0108CD8_Nicaragua 2	GN0108	disease group: Nicaragua 2degree	cell subset: Memory CD3+CD8+ T cells
-GN0109_CD4_Nicaragua 2°	GN0109	disease group: Nicaragua 2degree	cell subset: Memory CD3+CD4+ T cells
-GN0109 CD8_Nicaragua 2	GN0109	disease group: Nicaragua 2degree	cell subset: Memory CD3+CD8+ T cells
-GN0114_CD4_Nicaragua 2°	GN0114	disease group: Nicaragua 2degree	cell subset: Memory CD3+CD4+ T cells
-GN0114CD8_Nicaragua 2	GN0114	disease group: Nicaragua 2degree	cell subset: Memory CD3+CD8+ T cells
-GS0011_CD4_Sri Lanka 1°	GS0011	disease group: Sri Lanka 1degree	cell subset: Memory CD3+CD4+ T cells
-GS0011_CD8_Sri Lanka 1°	GS0011	disease group: Sri Lanka 1degree	cell subset: Memory CD3+CD8+ T cells
-GS0053_CD4_Sri Lanka_negative	GS0053	disease group: Sri Lanka negative	cell subset: Memory CD3+CD4+ T cells
-GS0053_CD8_Sri Lanka_negative	GS0053	disease group: Sri Lanka negative	cell subset: Memory CD3+CD8+ T cells
-GS0058_CD4_Sri Lanka 1°	GS0058	disease group: Sri Lanka 1degree	cell subset: Memory CD3+CD4+ T cells
-GS0058_CD8_Sri Lanka 1	GS0058	disease group: Sri Lanka 1degree	cell subset: Memory CD3+CD8+ T cells
-GS0073_CD4_Sri Lanka_negative	GS0073	disease group: Sri Lanka negative	cell subset: Memory CD3+CD4+ T cells
-GS0073_CD8_Sri Lanka_negative	GS0073	disease group: Sri Lanka negative	cell subset: Memory CD3+CD8+ T cells
-GS0075_CD4_Sri Lanka_negative	GS0075	disease group: Sri Lanka negative	cell subset: Memory CD3+CD4+ T cells
-GS0075_CD8_Sri Lanka_negative	GS0075	disease group: Sri Lanka negative	cell subset: Memory CD3+CD8+ T cells
-GS0076_CD8_Sri Lanka 2°	GS0076	disease group: Sri Lanka 2degree	cell subset: Memory CD3+CD8+ T cells
-GS0079_CD8_Sri Lanka 2°	GS0079	disease group: Sri Lanka 2degree	cell subset: Memory CD3+CD8+ T cells
-GS0079_CD4_Sri Lanka 2°	GS0079	disease group: Sri Lanka 2degree	cell subset: Memory CD3+CD4+ T cells
-GS0088_CD4_Sri Lanka_negative	GS0088	disease group: Sri Lanka negative	cell subset: Memory CD3+CD4+ T cells
-GS0088_CD8_Sri Lanka_negative	GS0088	disease group: Sri Lanka negative	cell subset: Memory CD3+CD8+ T cells
-GS0089_CD4_Sri Lanka 2°	GS0089	disease group: Sri Lanka 2degree	cell subset: Memory CD3+CD4+ T cells
-GS0089_CD8_Sri Lanka 2°	GS0089	disease group: Sri Lanka 2degree	cell subset: Memory CD3+CD8+ T cells
-GS0094_CD4_Sri Lanka_negative	GS0094	disease group: Sri Lanka negative	cell subset: Memory CD3+CD4+ T cells
-GS0094_CD8_Sri Lanka_negative	GS0094	disease group: Sri Lanka negative	cell subset: Memory CD3+CD8+ T cells
-GS0098_CD4_Sri Lanka 2°	GS0098	disease group: Sri Lanka 2degree	cell subset: Memory CD3+CD4+ T cells
-GS0098_CD8_Sri Lanka 2°	GS0098	disease group: Sri Lanka 2degree	cell subset: Memory CD3+CD8+ T cells
-GS0099_CD4_Sri Lanka 2°	GS0099	disease group: Sri Lanka 2degree	cell subset: Memory CD3+CD4+ T cells
-GS0099_CD8_Sri Lanka 2°	GS0099	disease group: Sri Lanka 2degree	cell subset: Memory CD3+CD8+ T cells
-GS0108_CD8_Sri Lanka 2°	GS0108	disease group: Sri Lanka 2degree	cell subset: Memory CD3+CD8+ T cells
-GS0108_CD4_Sri Lanka 2°	GS0108	disease group: Sri Lanka 2degree	cell subset: Memory CD3+CD4+ T cells
-GS0109_CD4_Sri Lanka 1°	GS0109	disease group: Sri Lanka 1degree	cell subset: Memory CD3+CD4+ T cells
-GS0117_CD8_Sri Lanka 2°	GS0117	disease group: Sri Lanka 2degree	cell subset: Memory CD3+CD8+ T cells
-GS0117_CD4_Sri Lanka 2°	GS0117	disease group: Sri Lanka 2degree	cell subset: Memory CD3+CD4+ T cells
-GS0118_CD4_Sri Lanka_negative	GS0118	disease group: Sri Lanka negative	cell subset: Memory CD3+CD4+ T cells
-GS0118_CD8_Sri Lanka_negative	GS0118	disease group: Sri Lanka negative	cell subset: Memory CD3+CD8+ T cells
-GS0119_CD4_Sri Lanka_negative	GS0119	disease group: Sri Lanka negative	cell subset: Memory CD3+CD4+ T cells
-GS0119_CD8_Sri Lanka_negative	GS0119	disease group: Sri Lanka negative	cell subset: Memory CD3+CD8+ T cells
-GS0127_CD4_Sri Lanka_negative	GS0127	disease group: Sri Lanka negative	cell subset: Memory CD3+CD4+ T cells
-GS0127_CD8_Sri Lanka_negative	GS0127	disease group: Sri Lanka negative	cell subset: Memory CD3+CD8+ T cells
-GS0128_CD4_Sri Lanka 2°	GS0128	disease group: Sri Lanka 2degree	cell subset: Memory CD3+CD4+ T cells
-GS0128_CD8_Sri Lanka 2°	GS0128	disease group: Sri Lanka 2degree	cell subset: Memory CD3+CD8+ T cells
-GS0132_CD4_Sri Lanka 2°	GS0132	disease group: Sri Lanka 2degree	cell subset: Memory CD3+CD4+ T cells
-GS0132_CD8_Sri Lanka 2°	GS0132	disease group: Sri Lanka 2degree	cell subset: Memory CD3+CD8+ T cells
-GS0133_CD4_Sri Lanka 2°	GS0133	disease group: Sri Lanka 2degree	cell subset: Memory CD3+CD4+ T cells
-GS0133_CD8_Sri Lanka 2°	GS0133	disease group: Sri Lanka 2degree	cell subset: Memory CD3+CD8+ T cells
-GS0136_CD4_Sri Lanka_negative	GS0136	disease group: Sri Lanka negative	cell subset: Memory CD3+CD4+ T cells
-GS0136_CD8_Sri Lanka_negative	GS0136	disease group: Sri Lanka negative	cell subset: Memory CD3+CD8+ T cells
-GS0143_CD8_Sri Lanka 2°	GS0143	disease group: Sri Lanka 2degree	cell subset: Memory CD3+CD8+ T cells
-GS0143_CD4_Sri Lanka 2°	GS0143	disease group: Sri Lanka 2degree	cell subset: Memory CD3+CD4+ T cells
-GS0159_CD4_Sri Lanka 1°	GS0159	disease group: Sri Lanka 1degree	cell subset: Memory CD3+CD4+ T cells
-GS0159_CD8_Sri Lanka 1	GS0159	disease group: Sri Lanka 1degree	cell subset: Memory CD3+CD8+ T cells
-GS0162_CD8_Sri Lanka 1°	GS0162	disease group: Sri Lanka 1degree	cell subset: Memory CD3+CD8+ T cells
-GS0164_CD4_Sri Lanka_negative	GS0164	disease group: Sri Lanka negative	cell subset: Memory CD3+CD4+ T cells
-GS0164_CD8_Sri Lanka_negative	GS0164	disease group: Sri Lanka negative	cell subset: Memory CD3+CD8+ T cells
-GS0174_CD4_Sri Lanka_negative	GS0174	disease group: Sri Lanka negative	cell subset: Memory CD3+CD4+ T cells
-GS0174_CD8_Sri Lanka_negative	GS0174	disease group: Sri Lanka negative	cell subset: Memory CD3+CD8+ T cells
-GS0181_CD4_Sri Lanka_negative	GS0181	disease group: Sri Lanka negative	cell subset: Memory CD3+CD4+ T cells
-GS0182_CD4_Sri Lanka 1°	GS0182	disease group: Sri Lanka 1degree	cell subset: Memory CD3+CD4+ T cells
-GS0182_CD8_Sri Lanka 1°	GS0182	disease group: Sri Lanka 1degree	cell subset: Memory CD3+CD8+ T cells
-GS0193_CD4_Sri Lanka 2°	GS0193	disease group: Sri Lanka 2degree	cell subset: Memory CD3+CD4+ T cells
-GS0193_CD8_Sri Lanka 2°	GS0193	disease group: Sri Lanka 2degree	cell subset: Memory CD3+CD8+ T cells
-GS0200_CD8_Sri Lanka 1°	GS0200	disease group: Sri Lanka 1degree	cell subset: Memory CD3+CD8+ T cells
-GS0210_CD8_Sri Lanka 2°	GS0210	disease group: Sri Lanka 2degree	cell subset: Memory CD3+CD8+ T cells
-GS0213_CD4_Sri Lanka_negative	GS0213	disease group: Sri Lanka negative	cell subset: Memory CD3+CD4+ T cells
-GS0213_CD8_Sri Lanka_negative	GS0213	disease group: Sri Lanka negative	cell subset: Memory CD3+CD8+ T cells
-GS0216_CD8_Sri Lanka_negative	GS0216	disease group: Sri Lanka negative	cell subset: Memory CD3+CD8+ T cells
-GS0222_CD4_Sri Lanka_negative	GS0222	disease group: Sri Lanka negative	cell subset: Memory CD3+CD4+ T cells
-GS0222_CD8_Sri Lanka_negative	GS0222	disease group: Sri Lanka negative	cell subset: Memory CD3+CD8+ T cells
-GS0227_CD4_Sri Lanka 1°	GS0227	disease group: Sri Lanka 1degree	cell subset: Memory CD3+CD4+ T cells
-GS0227_CD8_Sri Lanka 1°	GS0227	disease group: Sri Lanka 1degree	cell subset: Memory CD3+CD8+ T cells
-GS0229_CD4_Sri Lanka 1°	GS0229	disease group: Sri Lanka 1degree	cell subset: Memory CD3+CD4+ T cells
-GS0229_CD8_Sri Lanka 1°	GS0229	disease group: Sri Lanka 1degree	cell subset: Memory CD3+CD8+ T cells
-GS0239_CD4_Sri Lanka 1°	GS0239	disease group: Sri Lanka 1degree	cell subset: Memory CD3+CD4+ T cells
-GS0239_CD8_Sri Lanka 1°	GS0239	disease group: Sri Lanka 1degree	cell subset: Memory CD3+CD8+ T cells
-GS0241_CD4_Sri Lanka 1°	GS0241	disease group: Sri Lanka 1degree	cell subset: Memory CD3+CD4+ T cells
-GS0241_CD8_Sri Lanka 1°	GS0241	disease group: Sri Lanka 1degree	cell subset: Memory CD3+CD8+ T cells
-GS0253_CD4_Sri Lanka 1°	GS0253	disease group: Sri Lanka 1degree	cell subset: Memory CD3+CD4+ T cells
-GS0253_CD8_Sri Lanka 1°	GS0253	disease group: Sri Lanka 1degree	cell subset: Memory CD3+CD8+ T cells
-GS0259_CD4_Sri Lanka 2°	GS0259	disease group: Sri Lanka 2degree	cell subset: Memory CD3+CD4+ T cells
-GS0259_CD8_Sri Lanka 2°	GS0259	disease group: Sri Lanka 2degree	cell subset: Memory CD3+CD8+ T cells
-GS0263_CD4_Sri Lanka 1°	GS0263	disease group: Sri Lanka 1degree	cell subset: Memory CD3+CD4+ T cells
-GS0263_CD8_Sri Lanka 1°	GS0263	disease group: Sri Lanka 1degree	cell subset: Memory CD3+CD8+ T cells
-GS0266_CD8_Sri Lanka 1°	GS0266	disease group: Sri Lanka 1degree	cell subset: Memory CD3+CD8+ T cells
-GS0278_CD4_Sri Lanka 1°	GS0278	disease group: Sri Lanka 1degree	cell subset: Memory CD3+CD4+ T cells
-GS0278_CD8_Sri Lanka 1°	GS0278	disease group: Sri Lanka 1degree	cell subset: Memory CD3+CD8+ T cells
+ID	condition
+GN0073	CD8_Ni_2/Ni_2
+GN0077	CD8_Ni_2/Ni_2
+GN0102	CD4_Ni_2/Ni_2
+GN0102	CD8_Ni_2/Ni_2
+GN0103	CD4_Ni_2/Ni_2
+GN0103	CD8_Ni_2/Ni_2
+GN0104	CD4_Ni_2/Ni_2
+GN0104	CD8_Ni_2/Ni_2
+GN0105	CD4_Ni_2/Ni_2
+GN0105	CD8_Ni_2/Ni_2
+GN0106	CD4_Ni_2/Ni_2
+GN0106	CD8_Ni_2/Ni_2
+GN0107	CD4_Ni_2/Ni_2
+GN0107	CD8_Ni_2/Ni_2
+GN0108	CD4_Ni_2/Ni_2
+GN0108	CD8_Ni_2/Ni_2
+GN0109	CD4_Ni_2/Ni_2
+GN0109	CD8_Ni_2/Ni_2
+GN0114	CD4_Ni_2/Ni_2
+GN0114	CD8_Ni_2/Ni_2
+GS0076	CD8_SL_2/SL_2
+GS0079	CD4_SL_2/SL_2
+GS0079	CD8_SL_2/SL_2
+GS0089	CD4_SL_2/SL_2
+GS0089	CD8_SL_2/SL_2
+GS0098	CD4_SL_2/SL_2
+GN0066	CD4_Ni_2/Ni_2
+GS0098	CD8_SL_2/SL_2
+GS0099	CD4_SL_2/SL_2
+GS0099	CD8_SL_2/SL_2
+GS0108	CD4_SL_2/SL_2
+GS0108	CD8_SL_2/SL_2
+GS0117	CD4_SL_2/SL_2
+GS0117	CD8_SL_2/SL_2
+GS0128	CD4_SL_2/SL_2
+GS0128	CD8_SL_2/SL_2
+GN0066	CD8_Ni_2/Ni_2
+GN0068	CD4_Ni_2/Ni_2
+GN0068	CD8_Ni_2/Ni_2
+GN0072	CD8_Ni_2/Ni_2
+GN0073	CD4_Ni_2/Ni_2
+GS0133	CD4_SL_2/SL_2
+GS0133	CD8_SL_2/SL_2
+GS0143	CD4_SL_2/SL_2
+GS0143	CD8_SL_2/SL_2
+GS0193	CD4_SL_2/SL_2
+GS0193	CD8_SL_2/SL_2
+GS0210	CD8_SL_2/SL_2
+GS0259	CD4_SL_2/SL_2
+GS0259	CD8_SL_2/SL_2
+GN0064	CD4_Ni_2/Ni_2
+GS0011	CD4_SL_1/SL_1
+GS0011	CD8_SL_1/SL_1
+GS0058	CD4_SL_1/SL_1
+GS0058	CD8_SL_1/SL_1
+GS0109	CD4_SL_1/SL_1
+GS0159	CD4_SL_1/SL_1
+GS0159	CD8_SL_1/SL_1
+GS0162	CD8_SL_1/SL_1
+GS0182	CD4_SL_1/SL_1
+GS0182	CD8_SL_1/SL_1
+GS0200	CD8_SL_1/SL_1
+GS0227	CD4_SL_1/SL_1
+GS0227	CD8_SL_1/SL_1
+GS0229	CD4_SL_1/SL_1
+GS0229	CD8_SL_1/SL_1
+GS0239	CD4_SL_1/SL_1
+GS0239	CD8_SL_1/SL_1
+GN0072	CD4_Ni_2/Ni_2
+GS0241	CD4_SL_1/SL_1
+GS0241	CD8_SL_1/SL_1
+GS0253	CD4_SL_1/SL_1
+GS0253	CD8_SL_1/SL_1
+GS0263	CD4_SL_1/SL_1
+GS0263	CD8_SL_1/SL_1
+GS0278	CD4_SL_1/SL_1
+GS0278	CD8_SL_1/SL_1
+GS0266	CD8_SL_1/SL_1
+GS0053	CD4_SL_neg/SL_neg
+GS0053	CD8_SL_neg/SL_neg
+GS0073	CD4_SL_neg/SL_neg
+GS0073	CD8_SL_neg/SL_neg
+GS0075	CD4_SL_neg/SL_neg
+GS0075	CD8_SL_neg/SL_neg
+GS0088	CD4_SL_neg/SL_neg
+GS0088	CD8_SL_neg/SL_neg
+GS0094	CD4_SL_neg/SL_neg
+GS0094	CD8_SL_neg/SL_neg
+GS0118	CD4_SL_neg/SL_neg
+GS0118	CD8_SL_neg/SL_neg
+GS0119	CD4_SL_neg/SL_neg
+GS0119	CD8_SL_neg/SL_neg
+GS0127	CD4_SL_neg/SL_neg
+GS0127	CD8_SL_neg/SL_neg
+GS0136	CD4_SL_neg/SL_neg
+GS0136	CD8_SL_neg/SL_neg
+GS0164	CD4_SL_neg/SL_neg
+GS0164	CD8_SL_neg/SL_neg
+GS0174	CD4_SL_neg/SL_neg
+GS0174	CD8_SL_neg/SL_neg
+GS0181	CD4_SL_neg/SL_neg
+GS0213	CD4_SL_neg/SL_neg
+GS0213	CD8_SL_neg/SL_neg
+GS0216	CD8_SL_neg/SL_neg
+GS0222	CD4_SL_neg/SL_neg
+GS0222	CD8_SL_neg/SL_neg
+GS0132	CD4_SL_2/SL_2
+GS0132	CD8_SL_2/SL_2
